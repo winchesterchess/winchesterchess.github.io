@@ -1,0 +1,11 @@
+main:
+  - title: Join
+    url: /join
+  - title: Play
+    url: /play
+  - title: ECF
+    url: https://www.englishchess.org.uk/
+  - title: Ratings
+    url: https://www.ecfrating.org.uk/v2/new/list_players.php?club_code=4WNC
+  - title: Contact
+    url: /contact
