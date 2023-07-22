@@ -97,7 +97,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : custom # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : # custom provider is in _includes/head/custom.html # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
     tracking_id          : #G-T5NDZQJNWY
     anonymize_ip         : true # true, false (default)
