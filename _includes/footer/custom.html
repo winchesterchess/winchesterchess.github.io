@@ -1,0 +1,25 @@
+<!-- start custom footer snippets -->
+<div class="page__footer-copyright"><p id="analytics-opt-out"></p></div>
+<script>
+    function analyticsSetOptOutText() {
+        _paq.push([function() {
+            document.getElementById("analytics-opt-out").innerHTML = this.isUserOptedOut()
+            ? 'You have opted out of anonymous tracking, <a onclick="analyticsOptIn()"">click here</a> to opt in.'
+            : 'This site may anonymously track your visit, <a onclick="analyticsOptOut()"">click here</a> to opt out and save this setting on your device.';
+        }]);
+    }
+    function analyticsOptOut() {
+        _paq.push(['optUserOut']);
+        analyticsSetOptOutText();
+    }
+    function analyticsOptIn() {
+        _paq.push(['forgetUserOptOut']);
+        analyticsSetOptOutText();
+    }
+    document.addEventListener("DOMContentLoaded", function(event) {
+        if (!navigator.doNotTrack) {
+            analyticsSetOptOutText();
+        }
+    });
+</script>
+<!-- end custom footer snippets -->
