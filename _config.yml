@@ -20,7 +20,9 @@ title                    : "Winchester Chess Club"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Winchester Chess Club"
-description              : "The home of Winchester Chess Club on the web."
+description              : >-
+  Has the recent chess boom rekindled your interest? Join us for casual or rated
+  games over the board every Wednesday evening in Winchester, Hampshire, UK.
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : winchesterchess/winchesterchess.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
