@@ -19,7 +19,7 @@ author_profile: false # This ensures the left sidebar is not shown
         <h1 id="page-title" class="page__title" itemprop="headline">Has the recent chess boom rekindled your interest?</h1>
         <p class="page__lead">Why not try some friendly games with our members? Or perhaps you would like to test your skill and discover your over the board rating!</p>
         <p>
-            <a href="/join" class="btn btn--light-outline btn--large">Join us</a>
+            <a href="/join/" class="btn btn--light-outline btn--large">Join us</a>
         </p>
     </div>
     <!-- <span class="page__hero-caption">Photo credit: <a href="https://unsplash.com"><strong>Unsplash</strong></a></span> -->
