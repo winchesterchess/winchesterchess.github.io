@@ -24,7 +24,7 @@ bracken:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "Fediverse"
-      icon: "fab fa-fw fa-link"
+      icon: "fab fa-fw fa-mastodon"
       url: "https://hachyderm.io/@bracken"
 
 john:
