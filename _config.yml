@@ -138,6 +138,9 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
+    - label: "WhatsApp"
+      icon: "fab fa-fw fa-whatsapp-square"
+      url: https://chat.whatsapp.com/EPVeIK2a0fd6jqN5h4UKDq
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: https://www.facebook.com/p/Winchester-Chess-Club-100064380981777/
