@@ -5,7 +5,9 @@ main:
     url: /play/
   - title: ECF
     url: https://www.englishchess.org.uk/
+    icon: fas fa-external-link-alt
   - title: Ratings
     url: https://www.ecfrating.org.uk/v2/new/list_players.php?club_code=4WNC
+    icon: fas fa-external-link-alt
   - title: Contact
     url: /contact/
