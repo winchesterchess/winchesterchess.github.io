@@ -3,11 +3,9 @@ main:
     url: /join/
   - title: Play
     url: /play/
-  - title: ECF
+  - title: <i class="fas fa-external-link-alt" aria-hidden="true"></i> ECF
     url: https://www.englishchess.org.uk/
-    icon: fas fa-external-link-alt
-  - title: Ratings
+  - title: <i class="fas fa-external-link-alt" aria-hidden="true"></i> Ratings
     url: https://www.ecfrating.org.uk/v2/new/list_players.php?club_code=4WNC
-    icon: fas fa-external-link-alt
   - title: Contact
     url: /contact/
