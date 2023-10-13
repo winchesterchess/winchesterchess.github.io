@@ -144,6 +144,12 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: https://www.facebook.com/p/Winchester-Chess-Club-100064380981777/
+    - label: "Chess.com"
+      icon: "fas fa-chess-pawn"
+      url: https://www.chess.com/club/winchester-chess-club-uk
+    - label: "lichess.org"
+      icon: "fas fa-chess-knight"
+      url: https://lichess.org/team/winchester-chess-club
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
