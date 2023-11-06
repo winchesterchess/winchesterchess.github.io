@@ -6,3 +6,6 @@ If you would like more information about the chess club, please contact John Sch
 
 # WhatsApp
 We have an informal WhatsApp group that you can join by clicking [here](https://chat.whatsapp.com/EPVeIK2a0fd6jqN5h4UKDq). 
+
+# Address
+[Join us](/join/) at Badger Farm Community Centre, Badger Farm Road, Winchester, SO22 4QB. This is not a postal address.
