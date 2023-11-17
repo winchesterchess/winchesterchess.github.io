@@ -4,7 +4,7 @@ title:  "Winning at Home"
 date:   2023-11-17 22:53:00 +0100
 author: bracken
 categories: news
-tags: meetings
+tags: scl
 ---
 The [Southampton Chess League](http://www.sotonchessleague.org.uk/) is well under way for the 2023/24 season, and after a bit of a slow start the C team managed to deliver a win in the 4th division, scoring 3 to 1 at home against Southampton Uni's C team.
 
