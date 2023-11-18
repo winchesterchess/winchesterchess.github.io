@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Winning at Home"
-date:   2023-11-17 22:53:00 +0100
+date:   2023-11-17 22:53:00 +0000
 author: bracken
 categories: news
 tags: scl
