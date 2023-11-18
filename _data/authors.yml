@@ -30,7 +30,7 @@ bracken:
 john:
   name             : "John Schonenberger"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "John is the Secretary of Winchester Chess Club."
+  bio              : "Club Secretary"
   location         : "Winchester"
   email            :
   links:
