@@ -31,4 +31,8 @@ Games to be played on the clock with a 60 minute per side fixed time period and 
         border-right: 1px solid #afa58f;
         border-left: 1px solid #afa58f;
     }
+    /* Extra wide page for the table */
+    .page {
+        width: 100%;
+    }
 </style>
