@@ -24,15 +24,39 @@ Games to be played on the clock with a 60 minute per side fixed time period and 
 |Oskari VIRTANEN|||||||||||||||x|||0|
 |Mike WHITE||||||||||||||||x||0|
 |Adam WRIGHT|||||||||||||||||x|0|
+{: #results}
 
 <style>
-    /* Enable vertical table borders for this page */
+    /* Enable vertical table borders for this page. Tis will be overridden
+    by the below script if javascript is enabled. */
     td {
         border-right: 1px solid #afa58f;
         border-left: 1px solid #afa58f;
     }
+
     /* Extra wide page for the table */
     .page {
         width: 100%;
     }
 </style>
+
+<script>
+    let table = document.getElementById("results");
+    for (var i = 1, row; row = table.rows[i]; i++) {
+        for (var j = 0, cell; cell = row.cells[j]; j++) {
+            // set vertical table borders to the same as bottom border
+            let cellStyle = getComputedStyle(cell);
+            let borderColor = cellStyle.borderBottomColor;
+            let borderWidth = cellStyle.borderBottomWidth;
+            let borderStyle = cellStyle.borderBottomStyle;
+            let newCellStyle = "border-left:"+borderWidth+" "+borderStyle+" "+borderColor+";border-right:"+borderWidth+" "+borderStyle+" "+borderColor+";"
+            cell.style = newCellStyle;
+
+            if (cell.innerHTML == "x") {
+                // Swap cells containing 'x' for solid border color
+                cell.innerHTML = "";
+                cell.style = newCellStyle+";background:"+borderColor+";";
+            }
+        }
+    }
+</script>
