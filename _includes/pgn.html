@@ -1,0 +1,20 @@
+<script src="http://pgn4web-board-generator.casaschi.net/pgn-encoder.js"></script>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        let codeBlocks = document.getElementsByTagName("code");
+        for (var i = codeBlocks.length - 1, codeBlock; codeBlock = codeBlocks[i]; i--) {
+            if (codeBlock.classList.contains("language-pgn")) {
+                codeBlock.replaceWith(getChessBoard(codeBlock.innerHTML, codeBlock.ClassList));
+            }
+        }
+    })
+
+    function getChessBoard(pgn, classes) {
+        let encodedPGN = EncodePGN(pgn);
+        let board = document.createElement("iframe");
+        board.width = "100%";
+        board.height = "400px";
+        board.src = "http://pgn4web-board.casaschi.net?am=n&d=0&ss=26&ps=d&pf=d&lcs=W_iH&dcs=MHW2&bbcs=$$$$&hm=s&hcs=RKim&bd=h&hd=j&md=f&tm=0&fhcs=$$$$&fhs=16&fmcs=$$$$&fccs=v71$&hmcs=RKim&fms=16&fcs=m&cd=i&bcs=____&fp=0&hl=f&fh=726&fw=489&pe="+encodedPGN;
+        return board;
+    }
+</script>
