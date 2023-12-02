@@ -5,6 +5,11 @@ date:   2023-11-26 21:09:00 +0000
 author: bracken
 categories: news
 tags: scl
+pgn:
+  square_size: 26
+  light_square_color: F3F3F3
+  dark_square_color: E9DCBE
+  border_color: "343434"
 ---
 The [Southampton Chess League](http://www.sotonchessleague.org.uk/) continues, this time with the Winchester B team at home playing the Salisbury B team on Wednesday the 22nd November.
 

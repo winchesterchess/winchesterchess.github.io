@@ -9,12 +9,43 @@
         }
     })
 
+    var sexEncodingCharSet = "$0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ_";
+
+    function hex2sex(hex) {
+        var sex = "";
+        var dec = parseInt(hex,16);
+        while (dec>0) {
+            sex = sexEncodingCharSet.charAt(dec % 64) + sex;
+            dec >>= 6;
+        }
+        while (sex.length < 4) { sex = sexEncodingCharSet.charAt(0) + sex; }
+        return sex;
+    }
+
     function getChessBoard(pgn, classes) {
         let encodedPGN = EncodePGN(pgn);
         let board = document.createElement("iframe");
         board.width = "100%";
-        board.height = "400px";
-        board.src = "http://pgn4web-board.casaschi.net?am=n&d=0&ss=26&ps=d&pf=d&lcs=W_iH&dcs=MHW2&bbcs=$$$$&hm=s&hcs=RKim&bd=h&hd=j&md=f&tm=0&fhcs=$$$$&fhs=16&fmcs=$$$$&fccs=v71$&hmcs=RKim&fms=16&fcs=m&cd=i&bcs=____&fp=0&hl=f&fh=726&fw=489&pe="+encodedPGN;
+        // TODO frame padding and make the following a DRY var
+        board.height = "{{ site.pgn.square_size | default: page.pgn.square_size | default: 40 | times: 8 | plus: 70 }}px";
+        board.frameBorder = "0";
+        board.scrolling = "no";
+        board.marginHeight = "0";
+        board.marginWidth = "0";
+        let params = new URLSearchParams({
+            pe: encodedPGN,
+            am: "{{ site.pgn.autoplay_mode | default: page.pgn.autoplay_mode | default: "none" | slice: 0 }}",
+            d: {{ site.pgn.autoplay_delay | default: page.pgn.autoplay_delay | default: 3000 }},
+            ih: "{{ site.pgn.initial_halfmove | default: page.pgn.initial_halfmove | default: "end" | slice: 0 }}", // TODO set per board
+            ss: {{ site.pgn.square_size | default: page.pgn.square_size | default: 40 }}, // TODO scale iframe
+            lcs: hex2sex("{{ site.pgn.light_square_color | default: page.pgn.light_square_color | default: "EFF4EC" }}"),
+            dcs: hex2sex("{{ site.pgn.dark_square_color | default: page.pgn.dark_square_color | default: "C6CEC3" }}"),
+            bbcs: hex2sex("{{ site.pgn.border_color | default: page.pgn.border_color | default: "000000" }}"),
+            hm: "{{ site.pgn.highlight_mode | default: page.pgn.highlight_mode | default: "square" | slice: 0 }}",
+            hcs: hex2sex("{{ site.pgn.highlight_color | default: page.pgn.highlight_color | default: "DAF4D7" }}"),
+            bd: "s",
+        });
+        board.src = "http://pgn4web-board.casaschi.net?"+params.toString();
         return board;
     }
 </script>
