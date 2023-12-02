@@ -4,7 +4,7 @@ title: "2023/24 Round Robin Tournament"
 verticalBorders: true
 cellBlank: x
 ---
-Games to be played on the clock with a 60 minute per side fixed time period and moves recorded. Please report results to [John Schonenberger](mailto:schoneys54@gmail.com).
+Games to be played on the clock with a 60 minute per side fixed time period and moves recorded. Please report results to [Bracken](mailto:abdawson@gmail.com). Remember to record your moves, we're going to try and have the games rated.
 
 |Player|PA|RB|DB|BC|BD|GD|DG|CH|TH|MJ|SL|LP|DP|JS|OV|MW|AW|Score|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
