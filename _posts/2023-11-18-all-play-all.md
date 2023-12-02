@@ -2,7 +2,7 @@
 layout: single
 title:  "All Play All, Speed Evening & Christmas Schedule"
 date:   2023-11-18 09:30:00 +0000
-last_modified_at: 2023-11-24 18:06:00 +0000
+last_modified_at: 2023-12-02 13:52:00 +0000
 author: john
 categories: news
 tags: meetings
