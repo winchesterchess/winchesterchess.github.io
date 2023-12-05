@@ -12,4 +12,4 @@ To take part you will need at least bronze level [English Chess Federation](http
 # Club Round Robin
 We have a club round-robin tournament each season, you can check the results below.
 
-* [2023/24](/23-24-round-robin/)
+* [2023/24](/round-robin/23-24)

@@ -1,0 +1,11 @@
+---
+layout: single
+---
+This page has moved to <a href="{{page.newlocation}}" id="redirect-link">{{page.newlocation}}</a><span id="redirect-message">.</span>
+
+<script>
+    setTimeout(() => { window.location.replace("{{page.newlocation}}"); }, 5000);
+    document.getElementById("redirect-message").innerHTML = ", you will be redirected in 5 seconds...";
+</script>
+
+{{content}}
