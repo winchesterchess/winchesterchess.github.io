@@ -2,6 +2,7 @@
 layout: single
 title:  "The B Team Brings Their A Game"
 date:   2023-11-26 21:09:00 +0000
+last_modified_at: 2023-12-05 23:02:00 +0000
 author: bracken
 categories: news
 tags: scl
@@ -12,6 +13,12 @@ Notable by its absence was board 5 with Salisbury giving us a free point for a d
 
 Next up we have Oskari on board 4. Playing against the Scandinavian, our Scandinavian showed his Finnish bravery and played a wild but tactical game with no clear advantage on either side. Sadly a slip up in the end game left his bishop pinned and attacked, his opponent cleanly converted.
 
+<iframe src="https://lichess.org/embed/game/QkvPautc?theme=auto&bg=light#114"
+width=600 height=397 frameborder=0></iframe>
+
 Then Dan on board 3 facing 1.Nf3 played a flexible opening that lead to a position resembling the Jobava system with white pushing the pawns on the king side against the black bishop on f5. After being given the d file from a trade of rooks Dan pushed the the advantage and after sacrificing a piece successfully infiltrates. Having a stunning #-3 at one point using a knight to form a net allowing the b pawn to deliver mate, this is missed and Dan bails out taking back the piece. Fortunately Dan is still up a pawn, wins another going in to the end game and then gets two connected and passed, resignation follows from the opponent.
+
+<iframe src="https://lichess.org/embed/game/ZGJHINtx?theme=auto&bg=light#72"
+width=600 height=397 frameborder=0></iframe>
 
 Then we're left with Simon, we join him in a complex and even looking middle game. However he has 5 minutes left against his opponent's hour. He plays well but with situation on the clock precision isn't possible, he goes down an exchange and ultimately the flag drops bringing the evening to a close. 3-2 is the final score, each win proving necessary again.
