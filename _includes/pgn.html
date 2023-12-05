@@ -44,6 +44,16 @@
             hm: "{{ site.pgn.highlight_mode | default: page.pgn.highlight_mode | default: "square" | slice: 0 }}",
             hcs: hex2sex("{{ site.pgn.highlight_color | default: page.pgn.highlight_color | default: "DAF4D7" }}"),
             bd: "s",
+            tm: 13,
+            hd: "{{ site.pgn.game_header | default: page.pgn.game_header | default: "justified" | slice: 0 }}",
+            fhs: {{ site.pgn.font_size | default: page.pgn.font_size | default: 16 }},
+            md: "t",
+            fhcs: hex2sex("{{ site.pgn.font_color | default: page.pgn.font_color | default: "343434" }}"),
+            fms: {{ site.pgn.font_size | default: page.pgn.font_size | default: 16 }},
+            fmcs: hex2sex("{{ site.pgn.font_color | default: page.pgn.font_color | default: "343434" }}"),
+            hmcs: hex2sex("{{ site.pgn.highlight_color | default: page.pgn.highlight_color | default: "DAF4D7" }}"),
+            hl: "t",
+            bcs: "t",
         });
         board.src = "http://pgn4web-board.casaschi.net?"+params.toString();
         return board;
