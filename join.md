@@ -14,6 +14,6 @@ Just press the doorbell and someone will let you in. We aim to make you feel wel
 # Membership fees
 If you decide to continue then annual fees for 2023/24 are £60 (£30 for those 25 or younger). That's less than the price of a pub lemonade per night at the club.
 
-If you want to take part in the Hampshire League matches and get an over the board ECF rating then you will also need at least bronze level [English Chess Federation](https://www.englishchess.org.uk/ecf-membership-rates-and-joining-details/) membership.
+If you want to take part in the Southampton League matches and get an over the board ECF rating then you will also need at least bronze level [English Chess Federation](https://www.englishchess.org.uk/ecf-membership-rates-and-joining-details/) membership.
 
 If you would like more information about the chess club, please contact John Schonenberger, the Membership Secretary, at [schoneys54@gmail.com](mailto:schoneys54@gmail.com), or you can ask in our [WhatsApp group](https://chat.whatsapp.com/EPVeIK2a0fd6jqN5h4UKDq).
