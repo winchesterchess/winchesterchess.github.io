@@ -1,12 +1,13 @@
 ---
 layout: single
 title:  "The A and C Teams Avoid Relegation"
-date:   2024-04-18 15:22:00 +0000
+date:   2024-04-20 10:03:00 +0100
+last_modified_at: 2024-04-20 10:08:00 +0100
 author: bracken
 categories: news
 tags: scl
 ---
-In the [Southampton Chess League](http://www.sotonchessleague.org.uk/) our A and C team have managed to step off the bottom rung of their divisions with decisive results in their last games.
+In the [Southampton Chess League](https://ecflms.org.uk/lms/node/140736/home) our A and C team have managed to step off the bottom rung of their divisions with decisive results in their last games.
 
 The Winchester A team were sitting at the bottom of Division 2 by a tie-break with Southampton B before their last match, with Southampton B. George, Lukasz, Michael, Dan, and Bob played at home coming away with a 3½-1½ victory, breaking the tie and securing our spot in Division 2 next season.
 
