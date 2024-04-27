@@ -2,6 +2,8 @@
 layout: single
 title: Join
 ---
+> <i class="fas fa-circle-info" aria-hidden="true"></i> The club is currently on summer break, [see here](/news/summer-break-24) for more information. You can still reach us on the [WhatsApp group](https://chat.whatsapp.com/EPVeIK2a0fd6jqN5h4UKDq) all summer.
+
 Joining is easy, and your first visit is free.
 
 Winchester Chess Club meets at [Badger Farm Community Centre](https://www.bfobrca.org/activities/winchester-chess-club/), Badger Farm Road, Winchester, SO22 4QB on Wednesday evenings at 19:15-22:15 from the beginning of September until the middle of May.
