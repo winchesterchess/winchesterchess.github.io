@@ -143,7 +143,7 @@ footer:
       url: https://chat.whatsapp.com/EPVeIK2a0fd6jqN5h4UKDq
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: https://www.facebook.com/p/Winchester-Chess-Club-100064380981777/
+      # url:
     - label: "Chess.com"
       icon: "fas fa-chess-pawn"
       url: https://www.chess.com/club/winchester-chess-club-uk
