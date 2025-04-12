@@ -2,7 +2,7 @@
 layout: single
 title:  "Harry Wins Blitz Round Robin"
 date:   2025-04-12 11:23:00 +0100
-last_modified_at: 2025-04-12 12:17:00 +0100
+last_modified_at: 2025-04-12 12:23:00 +0100
 author: bracken
 categories: news
 tags: meetings
@@ -12,7 +12,7 @@ Congratulations to Harry on winning our annual club blitz tournament!
 ![7 chess players posing for a photo behind the boards, the 3rd player holds a trophy](/assets/images/2025-04-09_blitz_rr.jpg)
 *Left to right: John, Bob, Harry, Mike, Prabhakar, Bracken, David.*
 
-Harry scored an impressive 5½/7 in a very close tournament. Here's the full score-card:
+Harry scored an impressive 5½/6 in a very close tournament. Here's the full score-card:
 
 | Player | Name               | JS | BD | MW | BC | DG | HH | PM | Score |
 | ------ | ------------------ | -- | -- | -- | -- | -- | -- | -- | ----- |
