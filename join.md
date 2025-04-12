@@ -14,7 +14,7 @@ Just press the doorbell and someone will let you in. We aim to make you feel wel
 <iframe width="100%" height="450" style="border:0" loading="lazy" allowfullscreen src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJZd53AAoNdEgROZVCfMSy534&key=AIzaSyCAJKUtj3FcbnhmTRRh3S_ruqbNQLjtTHE"></iframe>
 
 # Membership fees
-After your first 3 free visits if you decide to continue then annual fees for 2024/25 are £70, and £35 for those 25 or younger, or those joining after Jan 1st 2025. That's about the price of a pub lemonade per evening at the club.
+After your first 3 free visits if you decide to continue then annual fees for 2024/25 are £60, and £30 for those 25 or younger, or those joining after Jan 1st 2025. That's about the price of a pub lemonade per evening at the club.
 
 If you want to take part in the Southampton League matches and get an over the board ECF rating then you will also need at least bronze level [English Chess Federation](https://www.englishchess.org.uk/ecf-membership-rates-and-joining-details/) membership.
 
