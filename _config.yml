@@ -95,7 +95,7 @@ social:
   type                   : Organization # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - https://www.facebook.com/p/Winchester-Chess-Club-100064380981777/
+    - https://www.facebook.com/people/Winchesterchessclub/61580301072523
 
 # Analytics
 analytics:
@@ -143,7 +143,7 @@ footer:
       url: https://chat.whatsapp.com/EPVeIK2a0fd6jqN5h4UKDq
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: https://www.facebook.com/people/Winchesterchessclub/61580301072523
     - label: "Chess.com"
       icon: "fas fa-chess-pawn"
       url: https://www.chess.com/club/winchester-chess-club-uk
