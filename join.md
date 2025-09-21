@@ -4,7 +4,7 @@ title: Join
 ---
 Joining is easy, and your first 3 visits are free.
 
-Winchester Chess Club meets at [Badger Farm Community Centre](https://www.bfobrca.org/activities/winchester-chess-club/), Badger Farm Road, Winchester, SO22 4QB on Wednesday evenings at 19:15-22:15 from the beginning of September until the middle of May.
+Winchester Chess Club meets at [Badger Farm Community Centre](https://www.bfobrca.org/activities/winchester-chess-club/), Badger Farm Road, Winchester, SO22 4QB on [selected Wednesday evenings](/news/updated-2025-26-club-night-schedule) at 19:15-22:15.
 
 Just press the doorbell and someone will let you in. We aim to make you feel welcome and ensure that you get to enjoy at least one game.
 
